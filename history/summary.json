@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 684,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 717,
+    "timeDay": 717,
+    "timeWeek": 717,
+    "timeMonth": 717,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
     "name": "Monitor 1",
-    "url": "$URL1",
+    "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor-1",
     "status": "down",
-    "uptime": "4.76%",
-    "uptimeDay": "4.76%",
-    "uptimeWeek": "4.76%",
-    "uptimeMonth": "4.76%",
-    "uptimeYear": "4.76%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 5
     }
   }
 ]
