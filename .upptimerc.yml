@@ -6,6 +6,8 @@ sites:
     url: https://ubuntu.com
   - name: Monitor 1
     url: $SECRET_SITE
+  - name: Monitor 2
+    url: $API_URL
 
 status-website:
   #cname: demo.upptime.js.org
