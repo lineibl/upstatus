@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 735,
-    "timeDay": 2335,
-    "timeWeek": 1275,
-    "timeMonth": 871,
+    "timeDay": 2339,
+    "timeWeek": 1298,
+    "timeMonth": 872,
     "timeYear": 735,
-    "dailyMinutesDown": {
-      "2023-08-21": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monitor 1",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 159,
-    "timeDay": 152,
-    "timeWeek": 147,
-    "timeMonth": 164,
+    "timeDay": 191,
+    "timeWeek": 166,
+    "timeMonth": 166,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2023-04-04": 58
