@@ -4,19 +4,19 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 765,
-    "timeDay": 567,
-    "timeWeek": 748,
-    "timeMonth": 897,
+    "timeDay": 640,
+    "timeWeek": 744,
+    "timeMonth": 892,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2023-09-22": 0
+      "2023-09-22": 12
     }
   },
   {
