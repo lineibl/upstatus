@@ -6,18 +6,16 @@
     "slug": "ubuntu-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 2670,
-    "timeWeek": 1466,
-    "timeMonth": 1117,
-    "timeYear": 814,
-    "dailyMinutesDown": {
-      "2023-09-23": 11
-    }
+    "time": 813,
+    "timeDay": 2627,
+    "timeWeek": 1469,
+    "timeMonth": 1113,
+    "timeYear": 813,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monitor 1",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 160,
-    "timeDay": 143,
-    "timeWeek": 153,
-    "timeMonth": 164,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 228,
+    "timeWeek": 151,
+    "timeMonth": 167,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2023-04-04": 58
     }
