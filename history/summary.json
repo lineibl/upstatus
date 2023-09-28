@@ -15,7 +15,9 @@
     "timeWeek": 1506,
     "timeMonth": 1105,
     "timeYear": 811,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-28": 0
+    }
   },
   {
     "name": "Monitor 1",
