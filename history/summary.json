@@ -6,17 +6,17 @@
     "slug": "ubuntu-com",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 3141,
-    "timeWeek": 2125,
-    "timeMonth": 1129,
+    "timeDay": 2282,
+    "timeWeek": 1983,
+    "timeMonth": 1113,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2023-11-18": 12
+      "2023-11-18": 0
     }
   },
   {
