@@ -4,18 +4,20 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 948,
-    "timeWeek": 1769,
-    "timeMonth": 1002,
-    "timeYear": 846,
-    "dailyMinutesDown": {}
+    "time": 864,
+    "timeDay": 3141,
+    "timeWeek": 2125,
+    "timeMonth": 1129,
+    "timeYear": 864,
+    "dailyMinutesDown": {
+      "2023-11-18": 0
+    }
   },
   {
     "name": "Monitor 1",
