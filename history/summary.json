@@ -4,7 +4,7 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 842,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2024-03-11": 0,
       "2024-01-16": 21,
       "2023-12-10": 17,
       "2023-11-27": 23,
