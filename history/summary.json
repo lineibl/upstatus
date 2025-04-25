@@ -6,15 +6,15 @@
     "slug": "ubuntu-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 1035,
-    "timeDay": 6308,
-    "timeWeek": 2589,
+    "timeDay": 657,
+    "timeWeek": 2590,
     "timeMonth": 2281,
-    "timeYear": 1088,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-04-23": 16,
       "2025-04-14": 26,
@@ -30,8 +30,7 @@
       "2024-12-28": 21,
       "2024-12-27": 18,
       "2024-12-17": 37,
-      "2024-06-20": 39,
-      "2024-04-25": 30
+      "2024-06-20": 39
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 177,
-    "timeWeek": 232,
+    "time": 174,
+    "timeDay": 97,
+    "timeWeek": 200,
     "timeMonth": 194,
     "timeYear": 184,
     "dailyMinutesDown": {}
