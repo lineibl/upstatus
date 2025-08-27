@@ -1,7 +1,7 @@
 url: https://ubuntu.com
-status: down
-code: 503
-responseTime: 5392
-lastUpdated: 2025-08-27T18:21:01.484Z
+status: up
+code: 200
+responseTime: 1076
+lastUpdated: 2025-08-27T18:43:43.976Z
 startTime: 2023-04-04T10:41:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
