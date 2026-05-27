@@ -4,17 +4,17 @@
     "url": "https://ubuntu.com",
     "icon": "https://icons.duckduckgo.com/ip3/ubuntu.com.ico",
     "slug": "ubuntu-com",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "95.34%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "72.73%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "99.38%",
     "time": 1746,
-    "timeDay": 544,
-    "timeWeek": 746,
-    "timeMonth": 1084,
-    "timeYear": 1721,
+    "timeDay": 576,
+    "timeWeek": 739,
+    "timeMonth": 1072,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2025-07-31": 53,
       "2025-07-30": 10,
@@ -34,7 +34,7 @@
       "2026-05-01": 1232,
       "2026-04-30": 377,
       "2026-05-02": 269,
-      "2026-05-27": 163
+      "2026-05-27": 393
     }
   },
   {
