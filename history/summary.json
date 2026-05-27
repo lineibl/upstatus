@@ -6,10 +6,10 @@
     "slug": "ubuntu-com",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "95.46%",
+    "uptimeYear": "99.43%",
     "time": 1747,
     "timeDay": 371,
     "timeWeek": 779,
@@ -33,7 +33,8 @@
       "2026-03-18": 105,
       "2026-05-01": 1232,
       "2026-04-30": 377,
-      "2026-05-02": 269
+      "2026-05-02": 269,
+      "2026-05-27": 110
     }
   },
   {
